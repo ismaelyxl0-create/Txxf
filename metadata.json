@@ -1,0 +1,8 @@
+{
+  "name": "TXLsocial",
+  "description": "TXLsocial Web: explora círculos, salas de voz, publicaciones, botella al mar y perfiles neón.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
